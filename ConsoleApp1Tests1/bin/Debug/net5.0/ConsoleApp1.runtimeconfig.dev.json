@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Balal PC\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Balal PC\\.nuget\\packages",
+      "D:\\Program Files\\Visual Studio SDKs\\NuGetPackages"
+    ]
+  }
+}
